@@ -1,6 +1,6 @@
-from structure import analyze_structure
-from scoring import compute_score
-from report import render_report
+from datadoctor.structure import analyze_structure
+from datadoctor.scoring import compute_score
+from datadoctor.report import render_report
 
 def inspect_file(path: str):
 

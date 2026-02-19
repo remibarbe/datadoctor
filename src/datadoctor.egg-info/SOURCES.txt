@@ -1,0 +1,14 @@
+pyproject.toml
+src/datadoctor/__init__.py
+src/datadoctor/cli.py
+src/datadoctor/inspector.py
+src/datadoctor/profiler.py
+src/datadoctor/report.py
+src/datadoctor/scoring.py
+src/datadoctor/structure.py
+src/datadoctor.egg-info/PKG-INFO
+src/datadoctor.egg-info/SOURCES.txt
+src/datadoctor.egg-info/dependency_links.txt
+src/datadoctor.egg-info/entry_points.txt
+src/datadoctor.egg-info/requires.txt
+src/datadoctor.egg-info/top_level.txt
